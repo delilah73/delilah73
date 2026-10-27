@@ -4,11 +4,14 @@
 <h1 align="center">Hi 👋, I'm Delilah </h1>
 
 <h3 align="center">B.Tech CSE Student | Aspiring Software Developer  </h3> 
-<img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/Blue%20Line.gif" width="100%" height="2px" />
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Floating Web Tech Stack" />
+  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" alt="Debugging Mode" />
 </p>
+
+<img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/Blue%20Line.gif" width="100%" height="2px" />
+
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Passionate+about+Coding+%F0%9F%92%BB;Learning+Java+%26+Python;Building+Projects+and+Growing+Every+Day" alt="Typing SVG" />

@@ -9,12 +9,10 @@
   <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" alt="Debugging Mode" />
 </p>
 
-<img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/Blue%20Line.gif" width="100%" height="2px" />
-
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Passionate+about+Coding+%F0%9F%92%BB;Learning+Java+%26+Python;Building+Projects+and+Growing+Every+Day" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Passionate+about+Coding;Learning+Java+%26+Python;Building+Projects+%26+Growing+Every+Day" alt="Typing SVG" />
 </p>
 
 ---
@@ -66,7 +64,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=delilah73&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
 
-<img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/Blue%20Line.gif" width="100%" height="2px" />
+
 
 ### 📊 GitHub Stats
 
@@ -75,7 +73,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
 
-<img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/Blue%20Line.gif" width="100%" height="2px" />
+
 
 
 <p align="center">
@@ -85,13 +83,14 @@
 
 ### 🤝 Connect With Me
 
-<p>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/discord.gif" width="100" alt="Discord" />
+  <img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/linkedin.gif" width="100" alt="LinkedIn" />
+  <img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/instagram.gif" width="100" alt="Instagram" />
+</p>
+
+<p align="center">
+  ✨ <i>Learning, building, and improving one day at a time.</i> ✨
 </p>
 
 <p align="center">

@@ -2,9 +2,12 @@
 
 
 <h1 align="center">Hi 👋, I'm Delilah </h1>
+
 <h3 align="center">B.Tech CSE Student | Aspiring Software Developer  </h3> 
+<img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/Blue%20Line.gif" width="100%" height="2px" />
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216655825-c639587f-6eb0-4841-b622-9f522f55d40e.gif" alt="Coding animation" width="400" />
+  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Floating Web Tech Stack" />
 </p>
 
 <p align="center">
@@ -60,6 +63,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=delilah73&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
 
+<img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/Blue%20Line.gif" width="100%" height="2px" />
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -67,7 +72,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
 
----
+<img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/Blue%20Line.gif" width="100%" height="2px" />
 
 
 <p align="center">

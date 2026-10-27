@@ -93,10 +93,6 @@
   ✨ <i>Learning, building, and improving one day at a time.</i> ✨
 </p>
 
-<p align="center">
-  ✨ <i>Learning, building, and improving one day at a time.</i> ✨
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 
 
